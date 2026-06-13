@@ -1,3 +1,4 @@
 # first-demo
-this is my first Git Repository
-author-Deeksh Maurya
+This is my first Git Repository.
+<br>
+Author-Deeksh Maurya
